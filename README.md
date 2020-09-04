@@ -7,6 +7,7 @@
 - To explore text data augmentation techniques.
 
 ## Content:
+(Open the notebook with colab for better visualizations)
 #### 1. Exploratory Data Analysis on text data.
 #### 2. Text Data Preprocessing on Social Media Text Data, which is inherently noisy.
 #### 3. Modelling
